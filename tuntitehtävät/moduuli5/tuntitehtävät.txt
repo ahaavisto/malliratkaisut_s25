@@ -1,0 +1,30 @@
+
+Moduuli 5/ TUNTITEHTÄVÄT
+
+1.	Kirjoita ohjelma, joka kysyy käyttäjältä kokonaisluvun.
+Ohjelman tulee laskea ja tulostaa kaikki parilliset luvut 0:sta käyttäjän antamaan lukuun asti käyttäen for-silmukkaa.
+Jos käyttäjä antaa negatiivisen luvun tai nollan, ohjelma tulostaa virheilmoituksen.
+
+
+2.	Tee ohjelma, joka kysy käyttäjältä kokonaislukuja, kunnes käyttäjä antaa negatiivisen luvun.
+Luvut talletetaan listaan, viimeistä eli negatiiivista lukua ei kuitenkaan talleteta listaan.
+Järjestä luvut suuruusjärjestykseen, pienin ensin.
+Tulosta sen sen jälkeen listan kaikki luvut.
+
+
+3.	Tee lisätoimintoja tehtävään 2.
+Tarkista python-koodilla, että onko luku 10 mukana listassa.
+Jos luku 10 on mukana, niin tulosta "luku 10 löytyi", muuten "lukua 10 ei löytynyt".
+
+Järjestä listan luvut suurimmasta pienimpään.
+Tulosta listan luvut allekkain yksi kerrallaan.
+Vinkki: listalla on myös reverse() -toiminto
+
+
+4.	Kirjoita ohjelma, joka pyytää käyttäjältä lukuja siihen saakka,
+kunnes tämä syöttää tyhjän merkkijonon lopetusmerkiksi.
+Luvut tallennetaan listaan.
+Tämän jälkeen ohjelman tulee käydä listan alkiot läpi ja tulostaa ne luvut,
+jotka ovat suurempia kuin 100. Tulosta jokainen luku vain kerran,
+vaikka se olisi syötetty useammin kuin kerran.
+
