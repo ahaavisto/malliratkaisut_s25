@@ -1,0 +1,35 @@
+
+1.
+Kirjoita ohjelma, joka kysyy käyttäjältä kolme eri hedelmää ja niiden määrät kilogrammoina.
+Tallenna hedelmät ja niiden määrät sanakirjaan, jossa hedelmän nimi on avain ja määrä arvo.
+Ohjelman tulee tulostaa sanakirja.
+
+
+2.
+Kirjoita ohjelma, joka kysyy käyttäjältä lukuja yksi kerrallaan.
+Ohjelma jatkaa lukujen kysymistä, kunnes käyttäjä syöttää luvun 0.
+Luvut tallennetaan listaan.
+Tämän jälkeen ohjelman tulee tulostaa lista ilman duplikaatteja eli
+vain yksilölliset luvut, jotka on syötetty.
+
+Vihje: Voit luoda listasta uuden joukon (set),
+joka poistaa automaattisesti kaikki duplikaatit.
+Tämän jälkeen voit muuttaa joukon takaisin listaksi, jos tarvitset listan toimintoja.
+
+
+3.
+Kirjoita ohjelma, joka toimii yksinkertaisena puhelinmuistiona.
+Ohjelma kysyy käyttäjältä, haluaako hän lisätä uuden yhteystiedon,
+hakea olemassa olevaa yhteystietoa vai lopettaa.
+
+Jos käyttäjä valitsee uuden yhteystiedon lisäämisen,
+ohjelma kysyy yhteystiedon nimen ja puhelinnumeron.
+
+Jos käyttäjä valitsee haun, ohjelma kysyy nimen ja tulostaa vastaavan puhelinnumeron.
+
+Jos käyttäjä haluaa lopettaa, ohjelman suoritus päättyy.
+
+Ohjelman tulee tallentaa tiedot sanakirjaan ja
+antaa käyttäjän valita toimintoja useita kertoja, kunnes hän päättää lopettaa.
+Ohjelman on myös käsiteltävä tilanne, jossa käyttäjä yrittää hakea olematonta nimeä.
+
