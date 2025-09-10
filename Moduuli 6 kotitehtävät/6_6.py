@@ -1,8 +1,8 @@
+import math
+
 def pizza_price_per_m2(halkaisija, hinta):
     säde = halkaisija / 2
     pinta_ala = math.pi * (säde ** 2)
-
-    # hinta jaettuna pinta-ala neliömetreinä
     return hinta / (pinta_ala / 1000)
 
 print("Pizza 1:")
